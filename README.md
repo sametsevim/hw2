@@ -1,4 +1,3 @@
-# hw2
 
 # read file 
 # print file content
